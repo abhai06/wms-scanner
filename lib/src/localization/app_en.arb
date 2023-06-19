@@ -1,0 +1,6 @@
+{
+  "appTitle": "wms_scanner",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
